@@ -25,11 +25,11 @@
 
     -->Frontend: React.js
 
-    -->Styling: CSS / TailwindCSS / Bootstrap
+    -->Styling: TailwindCSS 
 
     -->API Integration: OpenFoodFacts Public REST API
 
-    -->State Management: React Hooks (useState, useEffect)
+    -->State Management:  Context API 
 
 
 
@@ -75,4 +75,5 @@
     2.cd Food-Explorer
     3.npm install
     4.npm start
+
 
