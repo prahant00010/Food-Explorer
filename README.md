@@ -45,7 +45,7 @@
       4.Ingredients (if available)
       5.Nutrition Grade (A–E)
 
-    -->Pagination implemented using infinite scroll or load-more functionality
+ 
     
 ## Product Detail Page
 
@@ -55,10 +55,7 @@
       3.Nutritional values (energy, fat, carbs, proteins)
       4.Product labels (vegan, gluten-free, etc.)
 
-## Responsive Design
 
-    1.Fully responsive UI
-    2.Optimized for mobile, tablet, and desktop screens
 
 ## Project Structure
     src/
@@ -75,5 +72,6 @@
     2.cd Food-Explorer
     3.npm install
     4.npm start
+
 
 
