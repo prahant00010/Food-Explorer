@@ -1,8 +1,7 @@
 ## Food Product Explorer
 ## Project Description
 
-    Food Product Explorer is a responsive web application built using React.js that integrates the OpenFoodFacts public API. The application allows users to search, filter, sort, and explore detailed                information about food products, including ingredients, nutritional values, and labels. The project follows a clean, component-based architecture and focuses on usability, performance, and real-world API        handling.
-
+    Food Product Explorer is a responsive web application built using React.js that integrates the OpenFoodFacts public API. The application allows users to search, filter, sort, and explore detailed                 information about food products, including ingredients, nutritional values, and labels. The project follows a clean, component-based architecture and focuses on usability, performance, and real-world API         handling.
     This repository documents the methodology used to solve the given problem, along with the complete implementation.
 
 ## Objective
@@ -72,6 +71,7 @@
     2.cd Food-Explorer
     3.npm install
     4.npm start
+
 
 
 
